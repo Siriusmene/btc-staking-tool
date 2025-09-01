@@ -29,6 +29,6 @@
     "ecpair": "2.1.0",
     "patch-package": "8.0.0",
     "regtest-client": "0.2.1",
-    "tiny-secp256k1": "2.2.3"
+    "tiny-secp256k1": "2.2.4"
   }
 }
